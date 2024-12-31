@@ -1,5 +1,5 @@
 # ESP32-A1S AI-Thinker Audio kit v2.2 with ES8388 DAC Micropython integration 
-###ESP32-A1S AI-Thinker Audio kit v2.2 Micropython integration
+### ESP32-A1S AI-Thinker Audio kit v2.2 Micropython integration
 
 `esptool --chip esp32 --port COM6 flash_id`
 ```
