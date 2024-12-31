@@ -1,4 +1,4 @@
-# ESP32-A1S AI-Thinker Audio kit v2.2 with ES8388 DAC Micropython integration 
+# ESP32-A1S AI-Thinker Audio kit v2.2 with ES8388 DAC Micropython 1.23 Firmware Build 
 ### ESP32-A1S AI-Thinker Audio kit v2.2 Micropython integration
   Successfully tested on Ai-Thinker Audio kit v2.2 A436 board with DAC ES8388 (DAC config: `bck=27,ws=25,do=26,sda=33,scl=32,i2c=16`)
 
