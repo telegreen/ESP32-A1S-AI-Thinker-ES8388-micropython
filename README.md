@@ -1,5 +1,8 @@
 # ESP32-A1S AI-Thinker Audio kit v2.2 with ES8388 DAC Micropython integration 
 ### ESP32-A1S AI-Thinker Audio kit v2.2 Micropython integration
+  Successfully tested on Ai-Thinker Audio kit v2.2 A436 board with DAC ES8388 (DAC config: 'bck=27,ws=25,do=26,sda=33,scl=32,i2c=16')
+
+Check board id:  
 
 `esptool --chip esp32 --port COM6 flash_id`
 ```
@@ -19,10 +22,9 @@ Detected flash size: 4MB
 Hard resetting via RTS pin...
 ```
 
-Burn this firmware from folder ./firmware :
+Burn firmware to board from folder ./firmware :
 
-`esptool -p COM6 -b 460800 --before default_reset --after hard_reset --chip esp32  write_flash --flash_mode dio --flash_size detect --flash_freq 40m 
-0x1000 bootloader.bin 0x8000 partition-table.bin 0x10000 mpy-1.23.0-ESP32-A1S-Audio-DAC-ES8388.bin`
+`esptool -p COM6 -b 460800 --before default_reset --after hard_reset --chip esp32  write_flash --flash_mode dio --flash_size detect --flash_freq 40m 0x1000 bootloader.bin 0x8000 partition-table.bin 0x10000 mpy-1.23.0-ESP32-A1S-Audio-DAC-ES8388.bin`
 
 ```
 ...
