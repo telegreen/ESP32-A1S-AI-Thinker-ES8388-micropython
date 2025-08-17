@@ -58,3 +58,11 @@ Type "help()" for more information.
 https://esp32.com/viewtopic.php?t=34960
 
 https://github.com/espressif/esp-adf/tree/master/micropython_adf%2Fexamples
+
+https://github.com/Ai-Thinker-Open/ESP32-A1S-AudioKit
+
+
+## Related projects with ESP32 A1S AI-Thinker Audio Kit Board:
+
+https://sle118.github.io/squeezelite-esp32-installer/
+
