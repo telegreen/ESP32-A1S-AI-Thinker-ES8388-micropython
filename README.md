@@ -55,6 +55,7 @@ Type "help()" for more information.
 
 ## Links:
 
+- Success building ESP-ADF with Audio command into Micropython?
 https://esp32.com/viewtopic.php?t=34960
 
 - Build ESP-ADF firmware:
