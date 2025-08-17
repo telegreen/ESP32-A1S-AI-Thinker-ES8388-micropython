@@ -69,6 +69,7 @@ https://github.com/Ai-Thinker-Open/ESP32-A1S-AudioKit
 
 ## Related projects with ESP32 A1S AI-Thinker Audio Kit Board:
 
-- Squeezelite-esp32 is an audio software suite made to run on espressif's esp32 and esp32-s3 wifi (b/g/n) and bluetooth chipsets.
-https://sle118.github.io/squeezelite-esp32-installer/
+### - Squeezelite-esp32 
+- is an audio software suite made to run on espressif's esp32 and esp32-s3 wifi (b/g/n) and bluetooth chipsets.
+- https://sle118.github.io/squeezelite-esp32-installer/
 
