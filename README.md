@@ -52,3 +52,7 @@ Hash of data verified.
 MicroPython v1.23.0-preview.322.g5114f2c1e.dirty on 2024-12-31; ESP-Audio Lyart v4.3 with ESP32
 Type "help()" for more information.
 ```
+
+## Links
+
+https://esp32.com/viewtopic.php?t=34960
