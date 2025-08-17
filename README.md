@@ -57,12 +57,17 @@ Type "help()" for more information.
 
 https://esp32.com/viewtopic.php?t=34960
 
-https://github.com/espressif/esp-adf/tree/master/micropython_adf%2Fexamples
+- Build ESP-ADF firmware:
+https://github.com/espressif/esp-adf/tree/master/micropython_adf
+
+- Use MicroPython: 
+https://github.com/espressif/esp-adf/tree/master/micropython_adf/examples
 
 https://github.com/Ai-Thinker-Open/ESP32-A1S-AudioKit
 
 
 ## Related projects with ESP32 A1S AI-Thinker Audio Kit Board:
 
+- Squeezelite-esp32 is an audio software suite made to run on espressif's esp32 and esp32-s3 wifi (b/g/n) and bluetooth chipsets.
 https://sle118.github.io/squeezelite-esp32-installer/
 
